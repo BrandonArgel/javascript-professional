@@ -16,5 +16,8 @@
   },
   "browserslist": [
     "> 1%"
-  ]
+  ],
+  "dependencies": {
+    "@brandonargel/mediaplayer": "^1.0.2"
+  }
 }
